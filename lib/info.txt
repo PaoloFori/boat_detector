@@ -1,1 +1,1 @@
-info
+This directory has all library created and used by the code
