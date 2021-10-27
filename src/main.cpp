@@ -1,7 +1,7 @@
 /*
  boat detector.
  Implement an algorithm that use HOG features with Selective Search Segmentation and SVM.
- Created by Paolo Forin on 18/07/21.
+ Created by Paolo Forin on 18/07/21. 
 */
 
 #include <iostream>
